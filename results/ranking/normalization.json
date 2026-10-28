@@ -1,0 +1,13 @@
+{
+  "duplex_MFE_range": [
+    -71.9,
+    -21.6
+  ],
+  "guide_MFE_range": [
+    -14.7,
+    0.0
+  ],
+  "cohort_size": 376,
+  "constant_duplex_component": 0.0,
+  "constant_self_component": 1.0
+}

@@ -1,0 +1,10 @@
+{
+  "guides": 376,
+  "mutations": 8,
+  "simulations": 10000,
+  "seed": 20260914,
+  "scenario_rows": 48,
+  "winner_and_rank_sum_conservation": "PASS",
+  "fixed_cells_unchanged": 33464,
+  "note": "Computational weight sensitivity; not experimental validation"
+}

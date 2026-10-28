@@ -1,0 +1,1 @@
+No licence assigned. Owner/institution must establish code rights and approve a licence. This document is not a licence grant. A private repository is recommended while authorship, rights and public exports are being reviewed. No external upload is performed by the preparation script.

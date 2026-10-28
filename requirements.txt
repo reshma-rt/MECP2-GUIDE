@@ -1,0 +1,3 @@
+# Core adapters use the Python standard library and bundled local modules.
+# No pip dependencies are needed for those adapters.
+# Plot reproduction, if added, needs separately documented matplotlib and NumPy.

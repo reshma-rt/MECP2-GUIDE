@@ -1,0 +1,18 @@
+{
+  "available_subject_count": 34315,
+  "blast_database_requirement": "NOT_REQUIRED_FOR_EXISTING_RAW_HIT_RESCORING",
+  "exit_code": 0,
+  "expected_subject_count": 34315,
+  "intended_hit_qc": "PASS",
+  "missing_subject_count": 0,
+  "missing_subjects": [],
+  "reason": "Required subject coverage and intended-hit QC passed; worker returned successfully.",
+  "reference_coverage": "PASS",
+  "run_id": "47d10f3a-d2b3-46c2-9d03-98e9bdfe066c",
+  "scope": "Required subjects in supplied BLAST anchors only; reference identity not established.",
+  "stage": "TIER1_EXPLICIT_INPUT_FULLWINDOW_FEATURES",
+  "status": "COMPLETE",
+  "subject_manifest_rows": 659348,
+  "subject_manifest_sha256": "ae6c707bc7f95c41fc9fff031b95ec4bd93feba3fb9845d7e4bc593cb81c3df4",
+  "subject_manifest_valid": true
+}

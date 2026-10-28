@@ -1,0 +1,76 @@
+{
+  "scenarios": {
+    "baseline_control": [
+      0.25,
+      0.3,
+      0.3,
+      0.1,
+      0.05
+    ],
+    "only_bystander": [
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "only_specificity": [
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0
+    ],
+    "only_duplex": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0
+    ],
+    "only_self_structure": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "without_bystander": [
+      0.35714285714285715,
+      0.0,
+      0.4285714285714286,
+      0.14285714285714288,
+      0.07142857142857144
+    ],
+    "without_specificity": [
+      0.35714285714285715,
+      0.4285714285714286,
+      0.0,
+      0.14285714285714288,
+      0.07142857142857144
+    ],
+    "without_duplex": [
+      0.2777777777777778,
+      0.3333333333333333,
+      0.3333333333333333,
+      0.0,
+      0.05555555555555556
+    ],
+    "without_self_structure": [
+      0.2631578947368421,
+      0.3157894736842105,
+      0.3157894736842105,
+      0.10526315789473685,
+      0.0
+    ]
+  },
+  "components": [
+    "Stage2E_v2_accessibility_component_0_1",
+    "Stage2E_v2_bystander_component_0_1",
+    "Stage2E_v2_specificity_component_0_1",
+    "Stage2E_v2_duplex_component_0_1",
+    "Stage2E_v2_self_structure_component_0_1"
+  ],
+  "tie_rule": "score_desc_editable_count_asc_Guide_ID_asc",
+  "interpretation": "Decision sensitivity only; no experimental superiority or editing probability."
+}
